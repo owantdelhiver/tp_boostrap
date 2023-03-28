@@ -1,0 +1,34 @@
+.nav-item:hover {
+  background-color:#BDBDBD;
+}
+
+.recettes-cards {
+  background-color: aquamarine;
+}
+
+.card > img {
+  height: 18rem;
+}
+
+.card-text {
+  text-align: justify;
+}
+
+.card {
+  min-height: 100%;
+}
+
+html {
+  min-height: 100%;
+  position: relative;
+}
+
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+}
+
+body {
+  margin-bottom: 100px;
+}
